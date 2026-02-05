@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+  font-family: 'Bai Jamjuree', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #ffffff;
+}
+
+#root {
+  height: 100%;
+}
+
